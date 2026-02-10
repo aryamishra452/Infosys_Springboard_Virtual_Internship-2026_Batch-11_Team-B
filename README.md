@@ -10,16 +10,16 @@ Developed using Power BI, ElectViz aims to support data-driven political reporti
 
 **Project Files** 📂
 
-📄 Election Dataset: Indian national-level election data from Kaggle
+- Election Dataset: Indian national-level election data from Kaggle
 https://www.kaggle.com/datasets/awadhi123/indian-election-dataset
 
-📊 Power BI File (.pbix): Contains all dashboards, DAX measures, and visualizations
+- Power BI File (.pbix): Contains all dashboards, DAX measures, and visualizations
 
-📝 Documentation(Team and individual): Project explanation, dashboard descriptions, insights, and conclusions
+- Documentation(Team and individual): Project explanation, dashboard descriptions, insights, and conclusions
 
-📑 Presentation (PPT-Team and individual): Project overview, methodology, insights, challenges, and outcomes
+- Presentation (PPT-Team and individual): Project overview, methodology, insights, challenges, and outcomes
 
-📜Internship Completion Report: Internship timeline,work performed and learnings gained
+- Internship Completion Report: Internship timeline,work performed and learnings gained
 
 **Key Features** ✨
 
@@ -43,15 +43,15 @@ https://www.kaggle.com/datasets/awadhi123/indian-election-dataset
 
 **Tools & Technologies** 🛠️
 
-📊 Power BI Desktop – Data modeling, visualization, and dashboard development
+- Power BI Desktop – Data modeling, visualization, and dashboard development
 
-📐 DAX (Data Analysis Expressions) – Custom measures and calculations
+- DAX (Data Analysis Expressions) – Custom measures and calculations
 
-🔄 Power Query – Data cleaning and transformation
+- Power Query – Data cleaning and transformation
 
-📄 Microsoft Excel / CSV – Source data handling
+- Microsoft Excel / CSV – Source data handling
 
-🌐 GitHub – Project documentation and version control
+- GitHub – Project documentation and version control
 
 **License** 
 
@@ -61,15 +61,15 @@ No commercial or political use of the project or data is intended.
 
 **Team Learnings & Outcomes** 🎯
 
-📊 Gained hands-on experience in data cleaning, transformation, and modeling
+- Gained hands-on experience in data cleaning, transformation, and modeling
 
-📐 Developed strong understanding of DAX measures and context-aware calculations
+- Developed strong understanding of DAX measures and context-aware calculations
 
-🧩 Learned to design multi-level analytical dashboards for complex datasets
+- Learned to design multi-level analytical dashboards for complex datasets
 
-📢 Improved skills in data storytelling and visualization best practices
+- Improved skills in data storytelling and visualization best practices
 
-🧠 Understood how analytics can support transparent and data-driven decision making
+- Understood how analytics can support transparent and data-driven decision making
 
 **Future Enhancements** 🚀
 
@@ -79,9 +79,9 @@ Inclusion of demographic and socio-economic datasets to enrich insights
 
 Application of predictive analytics for forecasting election trends
 
-🔎 Addition of drill-through pages and advanced tooltips for deeper exploration
+Addition of drill-through pages and advanced tooltips for deeper exploration
 
-☁️ Deployment on Power BI Service with automated refresh and role-based access
+Deployment on Power BI Service with automated refresh and role-based access
 
 **Conclusion**
 
