@@ -93,7 +93,7 @@ Arya Mishra(Team Lead and Team member): https://github.com/aryamishra452
 
 Kritika Balpande(Team Member): https://github.com/kritika-04
 
-Radha Sri Yakkala(Team Member): github.com/Radhasri2105
+Radha Sri Yakkala(Team Member): https://github.com/Radhasri2105
 
 **Notes** 📝
 
