@@ -83,7 +83,7 @@ Application of predictive analytics for forecasting election trends
 
 ☁️ Deployment on Power BI Service with automated refresh and role-based access
 
-**Conclusion **
+**Conclusion**
 
 ElectViz demonstrates how data analytics and visualization can transform complex election datasets into meaningful insights. By leveraging Power BI and DAX, the project successfully presents election trends, competitiveness, and representation patterns in an interactive and user-friendly manner. The dashboards enable informed interpretation of election outcomes and highlight the importance of data-driven analysis in political reporting and decision-making.
 
