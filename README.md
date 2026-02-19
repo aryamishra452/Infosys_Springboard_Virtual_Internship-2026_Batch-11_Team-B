@@ -71,7 +71,7 @@ No commercial or political use of the project or data is intended.
 
 -Applied DAX to create calculated measures and KPIs for deeper analytical insights.
 
-*** Analytical and Problem-Solving Skills ***
+***Analytical and Problem-Solving Skills***
 
 - Developed logical filtering techniques to extract precise KPIs, such as identifying winning seats by filtering the Winner column with value “1”.
 
@@ -79,7 +79,7 @@ No commercial or political use of the project or data is intended.
 
 - Improved ability to interpret trends, patterns, and relationships within large-scale election datasets.
 
-*** Soft Skills and Team Collaboration ***
+***Soft Skills and Team Collaboration***
 
 -Practiced effective time management by following a structured 5-week development roadmap from data cleaning to final insight validation.
 
