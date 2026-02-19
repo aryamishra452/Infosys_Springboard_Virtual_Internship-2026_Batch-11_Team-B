@@ -61,15 +61,31 @@ No commercial or political use of the project or data is intended.
 
 **Team Learnings & Outcomes** 🎯
 
-- Gained hands-on experience in data cleaning, transformation, and modeling
+***Technical Skills***
 
-- Developed strong understanding of DAX measures and context-aware calculations
+-Gained hands-on experience with Power BI Desktop, including effective use of the Visualizations, Data, and Filters panes to create interactive dashboards.
 
-- Learned to design multi-level analytical dashboards for complex datasets
+-Developed proficiency in data mapping by assigning variables such as cand_sex and totvotpoll to appropriate visual elements like Legend, X-axis, and Values.
 
-- Improved skills in data storytelling and visualization best practices
+-Strengthened skills in data preprocessing using Power Query for cleaning, transforming, grouping, and merging datasets.
 
-- Understood how analytics can support transparent and data-driven decision making
+-Applied DAX to create calculated measures and KPIs for deeper analytical insights.
+
+*** Analytical and Problem-Solving Skills ***
+
+- Developed logical filtering techniques to extract precise KPIs, such as identifying winning seats by filtering the Winner column with value “1”.
+
+- Translated raw numerical data into meaningful comparisons using visuals like Treemaps to represent party strength (e.g., BJP, INC, JD).
+
+- Improved ability to interpret trends, patterns, and relationships within large-scale election datasets.
+
+*** Soft Skills and Team Collaboration ***
+
+-Practiced effective time management by following a structured 5-week development roadmap from data cleaning to final insight validation.
+
+-Enhanced technical documentation skills by clearly explaining dashboard architecture, challenges faced, and user instructions.
+
+-Improved communication skills through structured presentation and explanation of analytical findings.
 
 **Future Enhancements** 🚀
 
