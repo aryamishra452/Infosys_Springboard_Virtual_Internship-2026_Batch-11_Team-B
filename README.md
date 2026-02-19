@@ -13,13 +13,13 @@ Developed using Power BI, ElectViz aims to support data-driven political reporti
 - Election Dataset: Indian national-level election data from Kaggle
 https://www.kaggle.com/datasets/awadhi123/indian-election-dataset
 
-- Power BI File (.pbix): Contains all dashboards, DAX measures, and visualizations
+- Electviz.pbix(.pbix): Contains all dashboards, DAX measures, and visualizations
 
-- Documentation(Team and individual): Project explanation, dashboard descriptions, insights, and conclusions
+- Electviz_Team_Documentation: Project explanation, dashboard descriptions, insights, and conclusions
 
-- Presentation (PPT-Team and individual): Project overview, methodology, insights, challenges, and outcomes
+- Electviz_TeamPPT (Team ppt): Project overview, methodology, insights, challenges, and outcomes.
 
-- Internship Completion Report: Internship timeline,work performed and learnings gained
+- Electviz_Completetion_Report: Internship timeline,work performed and learnings gained
 
 **Key Features** ✨
 
